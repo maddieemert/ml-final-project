@@ -31,7 +31,7 @@ data and running the analysis in Google Colab.
 
 The project uses Python and Jupyter notebooks (`.ipynb`) in Google Colab. The notebooks run on Colab’s Linux runtime.
 
-- **Python version:** [Add the version from Colab]
+- **Python version:** 3.13.18 (Google Colab)
 - **Packages:** pandas, NumPy, scikit-learn, Matplotlib, and seaborn
 
 ## Repository contents
