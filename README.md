@@ -13,7 +13,7 @@ is used for preprocessing, training, hyperparameter tuning, and
 cross-validation. The reporting set (`Data/HMS_reporting_set.csv`)
 is reserved for the group's final evaluation.
 
-## Individual modeling assignments
+## Group Member Responsibilities
 
 | Student | Assigned model(s) |
 | --- | --- |
@@ -32,7 +32,7 @@ data and running the analysis in Google Colab.
 The project uses Python and Jupyter notebooks (`.ipynb`) in Google Colab. The notebooks run on Colab’s Linux runtime.
 
 - **Python version:** 3.13.18 (Google Colab)
-- **Packages:** pandas, NumPy, scikit-learn, Matplotlib, and seaborn
+- **Packages:** pandas, NumPy, scikit-learn, Matplotlib, seaborn, and PyTorch
 
 ## Repository contents
 
