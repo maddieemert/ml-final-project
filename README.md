@@ -26,3 +26,21 @@ is reserved for the group's final evaluation.
 The final individual modeling notebooks will be in `NOTEBOOKS/`.
 Each notebook includes instructions for obtaining the development
 data and running the analysis in Google Colab.
+
+## Software and platform
+
+The project uses Python and Jupyter notebooks (`.ipynb`) in Google Colab. The notebooks run on Colab’s Linux runtime.
+
+- **Python version:** [Add the version from Colab]
+- **Packages:** pandas, NumPy, scikit-learn, Matplotlib, and seaborn
+
+## Repository contents
+
+```text
+.
+├── README.md
+├── Data/
+│   └── HMS_reporting_set.csv
+└── NOTEBOOKS/
+    └── DS4021_individual_finalproject.ipynb
+```
